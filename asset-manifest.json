@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prayer-times-app/static/css/main.736303ed.css",
+    "main.js": "/prayer-times-app/static/js/main.bc420c0a.js",
+    "static/js/453.a714f801.chunk.js": "/prayer-times-app/static/js/453.a714f801.chunk.js",
+    "index.html": "/prayer-times-app/index.html",
+    "main.736303ed.css.map": "/prayer-times-app/static/css/main.736303ed.css.map",
+    "main.bc420c0a.js.map": "/prayer-times-app/static/js/main.bc420c0a.js.map",
+    "453.a714f801.chunk.js.map": "/prayer-times-app/static/js/453.a714f801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736303ed.css",
+    "static/js/main.bc420c0a.js"
+  ]
+}
